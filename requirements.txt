@@ -1,0 +1,12 @@
+flask
+flask_bootstrap
+pandas
+numpy
+sklearn
+gunicorn
+stripe
+tensorflow==1.14
+keras==2.2.5
+matplotlib
+python-dotenv
+pillow
